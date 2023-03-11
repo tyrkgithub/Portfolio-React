@@ -1,7 +1,7 @@
-import app1 from "./Assets/20200617_094224.jpg";
-import app2 from "./Assets/20200618_204817.jpg";
-import app3 from "./Assets/20200622_102901.jpg";
-import app4 from "./Assets/20200622_220833.jpg";
+import app1 from "../../Assets/koga1.jpg";
+import app2 from "../../Assets/koga2.jpg";
+import app3 from "../../Assets/koga3.jpg";
+import app4 from "../../Assets/koga.jpg";
 
 export const projectList = [
   {

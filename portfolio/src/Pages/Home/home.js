@@ -1,9 +1,10 @@
 import React from "react";
+import Hero from "/Users/tia/Desktop/bootcamp/week-thirteen/Portfolio-React/portfolio/src/Components/Hero/hero.js";
 
 function Home() {
   return (
     <div className="home">
-      <h1>Junior Web Developer</h1>
+      <Hero />
     </div>
   );
 }

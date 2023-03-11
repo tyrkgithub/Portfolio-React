@@ -8,11 +8,11 @@ function Navbar() {
       <Link className="navbar-brand" to="/">
         tyrk
       </Link>
-      <div>
+      <div className="container-fluid">
         <ul className="navbar-nav">
           <li className="nav-item">
             <NavLink
-              to="/"
+              to="/home"
               end
               className={({ isActive }) =>
                 isActive ? "nav-link active" : "nav-link"
