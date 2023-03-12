@@ -9,9 +9,14 @@ const Project = (props) => {
       </div>
       <div className="card-body text-dark">
         <h4 className="card-title">{props.title}</h4>
-        <p className="card-text text-secondary">hjbhb</p>
-        <a href="#" className="btn btn-outline-success">
-          link
+        <p className="card-text text-secondary">{props.p}</p>
+        <ul>{props.li}</ul>
+        <a
+          target="_blank"
+          href={props.href}
+          className="btn btn-outline-success"
+        >
+          View Application
         </a>
       </div>
     </div>

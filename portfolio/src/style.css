@@ -25,6 +25,3 @@ div[data-reactroot] {
   padding: 0;
   margin: 0;
 }
-div {
-  background-color: var(--clr3);
-}

@@ -3,14 +3,14 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home/home";
 import Gallery from "./Pages/Gallery/gallery";
 import Contact from "./Pages/Contact/contact";
-import Header from "./Components/Header/header";
 import Footer from "./Components/Footer/footer";
+import Navbar from "./Components/Navbar/navBar";
 
 function App() {
   return (
     <Router>
       <div>
-        <Header />
+        <Navbar />
 
         <Routes>
           <Route path="/" element={<Home />} />

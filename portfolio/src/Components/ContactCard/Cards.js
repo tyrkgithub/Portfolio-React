@@ -11,13 +11,17 @@ class Cards extends Component {
       <div className="container-fluid d-flex justify-content-center">
         <div className="row">
           <div className="col-md-4">
-            <Card imgsrc={FaGithub} title="gitHub" />
+            <Card
+              title="gitHub"
+              href="https://github.com/tyrkgithub"
+              a={FaGithub}
+            />
           </div>
           <div className="col-md-4">
-            <Card imgsrc={FaLinkedin} title="LinkedIn" />
+            <Card title="LinkedIn" href="https://linkedin.com/in/tyrk" />
           </div>
           <div className="col-md-4">
-            <Card imgsrc={FaEnvelope} title="Email" />
+            <Card title="Email" href="mailto: tyrkpages@outlook.com" />
           </div>
         </div>
       </div>

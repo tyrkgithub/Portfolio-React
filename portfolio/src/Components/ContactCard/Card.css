@@ -16,3 +16,9 @@ body {
 .card.text-center:hover {
   box-shadow: 5px 10px 20px 1px var(--5) !important;
 }
+
+.card-title {
+  color: var(--clr5);
+  font-family: Rubik Maze;
+  text-shadow: 2px 2px var(--clr1);
+}

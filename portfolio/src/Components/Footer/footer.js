@@ -10,18 +10,30 @@ function Footer() {
       <div className="container-fluid justify-content-center">
         <ul className="navbar-nav justify-content-center footerLinks">
           <li className="nav-item">
-            <a className="footerLinks" href="#">
+            <a
+              target="_blank"
+              className="footerLinks"
+              href="https://github.com/tyrkgithub"
+            >
               <FaGithub />
             </a>
           </li>
 
           <li className="nav-item">
-            <a className="footerLinks" href="#">
+            <a
+              target="_blank"
+              className="footerLinks"
+              href="https://linkedin.com/in/tyrk"
+            >
               <FaLinkedin />
             </a>
           </li>
           <li className="nav-item">
-            <a className="footerLinks" href="#">
+            <a
+              target="_blank"
+              className="footerLinks"
+              href="mailto: tyrkpages@outlook.com"
+            >
               <FaEnvelope />
             </a>
           </li>

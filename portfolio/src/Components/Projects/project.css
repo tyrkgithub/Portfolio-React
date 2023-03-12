@@ -10,9 +10,43 @@ body {
   background: radial-gradient(#ffff, #eeee, #e5e5e5);
 }
 
+.card-img-top {
+  height: 20rem;
+}
+
 .card.text-center {
   width: 20rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 5px;
+  cursor: pointer;
+  border: 3px solid var(--clr4);
+  border-radius: 10px;
+  object-fit: contain;
 }
 .card.text-center:hover {
   box-shadow: 5px 10px 20px 1px var(--5) !important;
+}
+.btn.btn-outline-success {
+  background-color: var(--clr4) !important;
+  border-color: var(--clr2) !important;
+  color: var(--clr1);
+
+  font-size: 20px;
+  border: 2px solid;
+  border-radius: 10px;
+}
+.gridArea {
+  margin: 0px 5%;
+  display: grid;
+  width: 2000px;
+}
+.gridArea.container-fluid.justify-content-center {
+  background-color: var(--clr4);
+}
+h2 {
+  color: var(--clr5);
+  font-family: Rubik Maze;
+  text-shadow: 2px 2px var(--clr1);
 }
