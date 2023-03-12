@@ -1,0 +1,21 @@
+.banner {
+  background-color: var(--clr3);
+  display: flex;
+}
+
+.bannerItem {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.bannerItem {
+  text-decoration: none;
+  color: var(--clr2);
+  padding: 3px;
+  list-style: none;
+}
+
+.banner.justify-content-center.text-center {
+  flex-direction: row !important;
+  margin-bottom: 0 !important;
+}

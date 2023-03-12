@@ -1,22 +1,7 @@
 /* Navigation */
 
 .navbar {
-  background-color: var(--clr4);
-}
-
-.navbar-brand {
-  width: 25%;
-  text-align: center;
-  margin-left: 10px;
-  border-color: var(--clr5);
-  background-color: var(--clr2);
-  border-radius: 100px;
-  font-size: 25px;
-  font-weight: 500;
-}
-
-.navbar-brand:hover {
-  color: var(--clr1);
+  background-color: var(--clr1) !important;
 }
 
 .nav-item {
@@ -33,4 +18,7 @@
 
 .nav-link:hover {
   border-bottom-color: var(--clr3);
+}
+.navbar-nav.justify-content-center {
+  flex-direction: row !important;
 }

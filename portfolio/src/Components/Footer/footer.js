@@ -3,11 +3,10 @@ import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";
 import "../Footer/footer.css";
-import { NavLink } from "react-router-dom";
 
 function Footer() {
   return (
-    <footer className="backwards navbar navbar-expand-lg navbar-light bg-light">
+    <footer className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid justify-content-center">
         <ul className="navbar-nav justify-content-center footerLinks">
           <li className="nav-item">

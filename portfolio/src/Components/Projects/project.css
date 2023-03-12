@@ -1,0 +1,18 @@
+:root {
+  --clr1: rgb(255, 179, 186);
+  --clr2: rgb(255, 223, 186);
+  --clr3: rgb(255, 255, 186);
+  --clr4: rgb(186, 255, 201);
+  --clr5: rgb(186, 225, 255);
+}
+
+body {
+  background: radial-gradient(#ffff, #eeee, #e5e5e5);
+}
+
+.card.text-center {
+  width: 20rem;
+}
+.card.text-center:hover {
+  box-shadow: 5px 10px 20px 1px var(--5) !important;
+}
