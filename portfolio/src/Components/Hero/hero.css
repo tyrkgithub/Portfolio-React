@@ -14,7 +14,6 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: black;
 }
 
 .hero * {
@@ -23,8 +22,11 @@
 }
 
 .hero h1,
-.hero h2 {
-  color: white;
+.hero h2,
+.hero h3 {
+  color: var(--clr5);
+  font-family: Rubik Maze;
+  text-shadow: 2px 2px var(--clr1);
 }
 
 .hero h1 {
@@ -35,4 +37,8 @@
 
 .hero h2 {
   font-size: 60px;
+}
+
+.hero h3 {
+  font-size: 40px;
 }

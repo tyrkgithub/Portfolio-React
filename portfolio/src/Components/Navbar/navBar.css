@@ -1,0 +1,36 @@
+/* Navigation */
+
+.navbar {
+  background-color: var(--clr4);
+}
+
+.navbar-brand {
+  width: 25%;
+  text-align: center;
+  margin-left: 10px;
+  border-color: var(--clr5);
+  background-color: var(--clr2);
+  border-radius: 100px;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.navbar-brand:hover {
+  color: var(--clr1);
+}
+
+.nav-item {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--clr3);
+  border-bottom: 4px solid var(--clr2);
+  padding: 3px;
+}
+
+.nav-link:hover {
+  border-bottom-color: var(--clr3);
+}

@@ -1,15 +1,12 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import "./navBar.css";
 
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/">
-        tyrk
-      </Link>
-      <div className="container-fluid">
-        <ul className="navbar-nav">
+      <div className="container-fluid justify-content-center">
+        <ul className="navbar-nav justify-content-center">
           <li className="nav-item">
             <NavLink
               to="/home"

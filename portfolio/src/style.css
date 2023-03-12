@@ -1,0 +1,27 @@
+:root {
+  --clr1: rgb(255, 179, 186);
+  --clr2: rgb(255, 223, 186);
+  --clr3: rgb(255, 255, 186);
+  --clr4: rgb(186, 255, 201);
+  --clr5: rgb(186, 225, 255);
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: var(--clr1);
+  display: block;
+  margin: 8px;
+}
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}

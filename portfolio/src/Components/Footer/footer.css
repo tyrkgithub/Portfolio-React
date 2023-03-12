@@ -1,0 +1,22 @@
+.footer {
+  background-color: var(--clr4);
+  color: var(--clr3);
+  position: relative;
+}
+
+.footerLinks {
+  margin: 0;
+  list-style: none;
+  align-items: center;
+  width: 100%;
+  padding: 0%;
+  color: var(--clr2);
+}
+
+.footerList {
+  text-decoration: none;
+}
+
+.footerLinks:hover {
+  color: var(--clr5);
+}
