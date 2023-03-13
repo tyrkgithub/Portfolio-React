@@ -1,0 +1,15 @@
+.btn.btn-outline-success {
+  background-color: var(--clr1) !important;
+  border-color: var(--clr2) !important;
+  color: var(--clr4);
+  font-size: 12px;
+  border: 2px solid;
+  border-radius: 10px;
+  text-shadow: var(--clr3) !important;
+  margin: 3px;
+}
+
+.btn.btn-outline-success:hover {
+  border: dotted var(--clr5);
+  color: var(--clr3);
+}
