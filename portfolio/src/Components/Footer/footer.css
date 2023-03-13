@@ -2,6 +2,7 @@
   background-color: var(--clr4) !important;
   color: var(--clr3);
   position: relative;
+  padding: 0;
 }
 
 .footerLinks {
@@ -10,22 +11,10 @@
   align-items: center;
   width: 100%;
   padding: 0;
-  color: var(--clr2);
+  color: var(--clr4);
   background-color: var(--clr3) !important;
-}
-
-.footerList {
-  text-decoration: none;
 }
 
 .footerLinks:hover {
   color: var(--clr5);
-}
-
-.navbar.navbar-expand-lg.navbar-light.bg-light {
-  padding: 0;
-}
-
-.container-fluid.justify-content-center {
-  padding: 0;
 }

@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid justify-content-center">
-        <ul className="navbar-nav justify-content-center footerLinks">
+        <ul className="navbar-nav justify-content-center">
           <li className="nav-item">
             <a
               target="_blank"

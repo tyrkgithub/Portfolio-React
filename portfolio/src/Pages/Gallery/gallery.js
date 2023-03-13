@@ -3,7 +3,12 @@ import Projects from "/Users/tia/Desktop/bootcamp/week-thirteen/Portfolio-React/
 import "/Users/tia/Desktop/bootcamp/week-thirteen/Portfolio-React/portfolio/src/Pages/Gallery/gallery.css";
 
 function Gallery() {
-  return <Projects></Projects>;
+  return (
+    <div>
+      <h2 className="banner text-center">Projects</h2>
+      <Projects></Projects>
+    </div>
+  );
 }
 
 export default Gallery;

@@ -5,10 +5,10 @@ const Card = (props) => {
   return (
     <div className="card text-center">
       <div className="overflow">
-        <a className="card-img-top">{props.a}</a>
-      </div>
-      <div className="card-body text-dark">
         <h4 className="card-title">{props.title}</h4>
+      </div>
+      <img img={props.img}></img>
+      <div className="card-body text-dark">
         <p className="card-text text-secondary">{props.p}</p>
         <a
           target="_blank"

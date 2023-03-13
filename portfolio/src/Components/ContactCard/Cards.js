@@ -14,14 +14,25 @@ class Cards extends Component {
             <Card
               title="gitHub"
               href="https://github.com/tyrkgithub"
-              a={FaGithub}
+              a="gitHub"
+              p="Please visit my gitHub repository to check out some code"
             />
           </div>
           <div className="col-md-4">
-            <Card title="LinkedIn" href="https://linkedin.com/in/tyrk" />
+            <Card
+              title="LinkedIn"
+              href="https://linkedin.com/in/tyrk"
+              a="LinkedIn"
+              p="Follow me on LinkedIn to keep up with my latest projects"
+            />
           </div>
           <div className="col-md-4">
-            <Card title="Email" href="mailto: tyrkpages@outlook.com" />
+            <Card
+              title="Email"
+              href="mailto: tyrkpages@outlook.com"
+              a="Email"
+              p="You can also email me if you would like to connect"
+            />
           </div>
         </div>
       </div>

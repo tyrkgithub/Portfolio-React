@@ -19,3 +19,17 @@
   grid-template-columns: 1fr 1fr 1fr;
   place-items: center;
 }
+
+.banner {
+  color: var(--clr5);
+  font-family: Rubik Maze !important;
+  text-shadow: 2px 2px var(--clr1);
+  position: relative;
+  font-size: 30px;
+  background-color: var(--clr2);
+  margin: 0;
+}
+
+.banner.text-center {
+  margin: 0;
+}
