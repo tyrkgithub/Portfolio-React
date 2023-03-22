@@ -37,7 +37,7 @@
 
   <br/>
  
-  <p>To complete this task I refered to the portfolio I made in week two. I then used code from getbootstrap.com for the nav and jumbotron, as well as from mdbootstrap.com for the footer<br/>
+  <p>To complete I have used React, Node and Bootstrap.<br/>
  <br/>
   
   <br/>
@@ -52,7 +52,11 @@
 
 
 
-https://user-images.githubusercontent.com/118772733/226995027-23fbbf1d-c247-43bb-9ff9-57605bf99f65.mov
+
+https://user-images.githubusercontent.com/118772733/226995855-1968cb91-f52f-48ac-8f1b-0617e2097542.mov
+
+
+
 
 
 
