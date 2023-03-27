@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cb699c7.css",
-    "main.js": "/static/js/main.894a8944.js",
-    "static/media/bootstrap.png": "/static/media/bootstrap.e9cf59fe23b7fa3bd4ef.png",
-    "static/media/TiaCV.png": "/static/media/TiaCV.4f89428a9526a9f487da.png",
-    "static/media/jsQuiz.png": "/static/media/jsQuiz.cfd468e96d857f646658.png",
-    "static/media/weatherDashboard.png": "/static/media/weatherDashboard.13bfcedd9b6a2befd9e5.png",
-    "static/media/consoleFinances.png": "/static/media/consoleFinances.2ceb6baac9704d391990.png",
-    "static/media/colorPal.png": "/static/media/colorPal.3c94883a6fb417920d85.png",
-    "static/media/avatar.png": "/static/media/avatar.b1221fddddfe4ef01793.png",
-    "static/media/passwordGenerator.png": "/static/media/passwordGenerator.b77c1002e84c7bd71ec1.png",
-    "static/media/wasa.png": "/static/media/wasa.ff19e235ad2bbf69df1a.png",
-    "index.html": "/index.html",
-    "main.9cb699c7.css.map": "/static/css/main.9cb699c7.css.map",
-    "main.894a8944.js.map": "/static/js/main.894a8944.js.map"
+    "main.css": "/Portfolio-React/static/css/main.ecb04e2a.css",
+    "main.js": "/Portfolio-React/static/js/main.87c3bb69.js",
+    "static/media/bootstrap.png": "/Portfolio-React/static/media/bootstrap.e9cf59fe23b7fa3bd4ef.png",
+    "static/media/TiaCV.png": "/Portfolio-React/static/media/TiaCV.4f89428a9526a9f487da.png",
+    "static/media/jsQuiz.png": "/Portfolio-React/static/media/jsQuiz.cfd468e96d857f646658.png",
+    "static/media/weatherDashboard.png": "/Portfolio-React/static/media/weatherDashboard.13bfcedd9b6a2befd9e5.png",
+    "static/media/consoleFinances.png": "/Portfolio-React/static/media/consoleFinances.2ceb6baac9704d391990.png",
+    "static/media/colorPal.png": "/Portfolio-React/static/media/colorPal.3c94883a6fb417920d85.png",
+    "static/media/avatar.png": "/Portfolio-React/static/media/avatar.b1221fddddfe4ef01793.png",
+    "static/media/passwordGenerator.png": "/Portfolio-React/static/media/passwordGenerator.b77c1002e84c7bd71ec1.png",
+    "static/media/wasa.png": "/Portfolio-React/static/media/wasa.ff19e235ad2bbf69df1a.png",
+    "index.html": "/Portfolio-React/index.html",
+    "main.ecb04e2a.css.map": "/Portfolio-React/static/css/main.ecb04e2a.css.map",
+    "main.87c3bb69.js.map": "/Portfolio-React/static/js/main.87c3bb69.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cb699c7.css",
-    "static/js/main.894a8944.js"
+    "static/css/main.ecb04e2a.css",
+    "static/js/main.87c3bb69.js"
   ]
 }
